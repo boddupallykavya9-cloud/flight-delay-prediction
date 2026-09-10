@@ -1,0 +1,8 @@
+Metric,Value
+Accuracy,0.821
+Precision,0.727
+Recall,0.004
+ROC-AUC,0.690
+Total_Flights,5714008
+Delayed_Flights,1023498
+Delay_Rate_%,17.91%
