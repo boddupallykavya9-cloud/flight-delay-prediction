@@ -182,7 +182,7 @@ flight-delay-prediction/
 ├── README.md
 ├── .gitignore
 │
-├── Data/
+├── Data/                   # Local only, not included in GitHub
 │   ├── airlines.csv
 │   ├── airports.csv
 │   └── flights.csv
